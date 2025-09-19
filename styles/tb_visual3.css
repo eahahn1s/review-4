@@ -69,7 +69,7 @@ article {
    background: url(../images/tb_back6.png) bottom right / 15% no-repeat;
    border-right: 8px double rgb(147, 116, 68);
    border-bottom: 8px double rgb(147, 116, 68);
-   border-radius: 80px;
+   border-bottom-right-radius: 80px;
    box-shadow: rgba(184, 154, 112, 0.7) -10px -10px 25px;
 }
 
